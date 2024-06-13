@@ -1,2 +1,2 @@
 # desafios-dio
-Repositório com todos os desafios da DIO no Bootcamp Desenvolvedor Java Back-end com IA
+Repositório com todos os desafios do Bootcamp da DIO 'Desenvolvedor back-end Java com IA'
