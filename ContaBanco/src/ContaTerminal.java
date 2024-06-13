@@ -13,7 +13,7 @@ public class ContaTerminal {
         String nomeCliente = scan.next();
         System.out.print("Por favor digite o saldo inicial: ");
         double saldo = scan.nextDouble();
-        System.out.printf("Olá [".concat(nomeCliente + "], ") + "obrigado por criar uma conta em nosso banco, sua agência é [" + agencia + "], conta [" + conta + "] e seu saldo [" + saldo + "] já está disponível.");
+        System.out.printf("Olá ".concat(nomeCliente + ", ") + "obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + conta + " e seu saldo " + saldo + " já está disponível.");
 
     }
 }
